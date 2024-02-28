@@ -37,13 +37,20 @@
 </p>
 <br>
 <br>
+<br>
+<br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koceromer&show_icons=true&locale=en&layout=compact" alt="koceromer" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koceromer&show_icons=true&locale=en&layout=compact" alt="koceromer" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koceromer&show_icons=true&locale=en" alt="koceromer" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koceromer&show_icons=true&locale=en" alt="koceromer" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koceromer&" alt="koceromer" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koceromer&" alt="koceromer" />
 </p>
+
+
+

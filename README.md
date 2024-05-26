@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/omerkcr34" target="blank"><img src="https://img.shields.io/twitter/follow/omerkcr34?logo=twitter&style=for-the-badge" alt="omerkcr34" /></a> </p>
 
-- 🔭 I’m curr ently workingon **C# and Python**
+- 🔭 I’m curr ently workingon **SQL and Python**
 
 - 🌱 I’m currently learning **Python,SQL and C#,C++**
 
